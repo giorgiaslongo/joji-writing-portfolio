@@ -84,6 +84,11 @@ Her current focus is technical writing, content QA, editorial review, and locali
 - [Localization QA Annotation Sample: Project Acorn (EN → PT-BR)](samples/localization-qa-annotation-sample.md)
   *Review of five submitted PT-BR translations of Project Acorn UI strings. Each string is annotated by error type — literal idiom, unnatural term, UI truncation, date format, register inconsistency — with corrected output and rationale. Part of the Project Acorn documentation set.*
 
+### Educational Content QA
+
+- [Editorial QA & Plain Language Review: K–6 EFL Teacher's Guide](samples/editorial-qa-plain-language-review-k6-efl-guide.md)
+  *QA review of three grammar-topic instruction sections from an anonymized K–6 EFL commercial curriculum. Problems were identified during actual classroom use. Each section includes: QA annotations anchored to exact source text by issue type, and a plain-language rewrite with numbered steps, separated goal statements, and stopping conditions.*
+
 ---
 
 ## About
