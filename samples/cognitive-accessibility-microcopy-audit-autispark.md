@@ -146,7 +146,7 @@ Without a visible completion signal, learners have no clear indication that thei
 
 For neurodivergent learners, the most valuable function of an educational app may not be the one printed on the marketing page. AutiSpark is marketed as a vocabulary and learning tool — but for this participant, its most meaningful use was as a safe space to practice social behavior. The instruction *"find the animal that lives in water"* was easy. The model of *"what to do when a visitor comes"* was genuinely useful.
 
-This distinction — between semantic content (what words mean) and pragmatic content (how language functions in social context) — is one that product teams and UX writers often overlook when designing for neurodiverse users. It should inform how the app is described, how its content is organized, and which features are prioritized for development.
+The gap isn't between the app's vocabulary activities and a child who already knows the words. It's between what the app is described as doing and what it actually did. For this participant, the content worth returning to wasn't a game — it was a video that modeled what to say when someone comes to the door. That's pragmatic language, not semantic. A product team planning the next update would find more traction expanding the social scenario library than adding vocabulary tiers.
 
 ---
 

@@ -242,9 +242,6 @@ Students identify: *if* or *whether*.
 
 ## Skills Demonstrated
 
-- Identifying documentation QA problems by type — not by general impression — and anchoring each finding to the exact text that causes the risk
-- Distinguishing between two categories that prose instructions routinely collapse: teacher background knowledge (what to understand) and classroom action (what to do)
-- Rewriting for a specific, pressured reader — a teacher mid-class who needs to scan, not parse
-- Preserving all grammar content exactly: the rules, the example sentences, the tense names, and the teaching sequence are unchanged; only the instruction delivery is improved
-- Applying numbered steps as a QA intervention — not a stylistic preference — because unordered prose creates re-entry failure when a teacher is interrupted
-- Adding outcome statements as a structural requirement: the teacher needs a stopping condition, not just a list of actions
+The core skill this document shows is distinguishing between two things that prose instructions routinely collapse: what a teacher needs to understand before the activity, and what a teacher needs to do during it. Every annotation is anchored to the exact sentence causing the problem, not to a general impression of difficulty.
+
+The rewrites preserve all grammar content — the rules, example sentences, tense names, and teaching sequence are unchanged. What changes is delivery: numbered steps so a teacher mid-class can find their place if interrupted; outcome statements so there is a stopping condition, not just a list of actions; pronoun references resolved so a substitute reading cold can follow without inferring.

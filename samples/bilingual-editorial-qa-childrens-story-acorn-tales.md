@@ -50,7 +50,7 @@ His classmates were duly impressed.
 **Decision:** Replace all four flagged terms.  
 **Quoted:** *"peculiar-looking," "contemplated," "reluctant," "mighty"*
 
-A Grade 1–2 reader (ages 6–8) is unlikely to know any of these words, and the surrounding context does not support meaning inference for them. "Peculiar" and "contemplated" are the most significant flags — they belong in Grade 4+ text. "Contemplated" in particular does no work here that "looked at" cannot do better, and with less friction. "Mighty" stays in some children's content because it appears in read-aloud contexts where an adult can gloss it; here it reads as the narrator's word, not Leo's, so it goes. "Duly" in the final sentence also registers above level, but that sentence is being cut for other reasons (see A-04).
+A Grade 1–2 reader (ages 6–8) is unlikely to know any of these words, and the surrounding context does not support meaning inference for them. "Peculiar" and "contemplated" are the most significant flags: they belong in Grade 4+ text. "Contemplated" in particular does no work here that "looked at" cannot do better, and with less friction. "Mighty" stays in some children's content because it appears in read-aloud contexts where an adult can gloss it; here it reads as the narrator's word, not Leo's, so it goes. "Duly" in the final sentence also registers above level, but that sentence is being cut for other reasons (see A-04).
 
 ---
 
@@ -147,10 +147,8 @@ Os colegas se aproximaram para ver de perto.
 
 ## Skills Demonstrated
 
-**Plain language editorial QA applied to narrative content:** The five problems in Version 1 are the kind found in educational content that has not gone through QA review — not parody errors, not obvious typos. The annotations show the decision and the mechanism: why the problem exists, what it costs the reader, and what the smallest effective fix is.
+The five problems in Version 1 are the kind that don't show up as spelling errors — vocabulary above level, passive constructions, a register break, a run-on, a culturally specific classroom practice. The annotations show why each one is a problem for this reader, not just that it is one.
 
-**Age-level vocabulary judgment:** The before/after is visible at word level — "contemplated" → "looked at," "peculiar" → cut, "mighty" → cut. The test was whether a Grade 1–2 reader can access the word without context support, not whether the word is grammatically wrong.
+"Show and tell" is the clearest example of what this document is demonstrating: it passes EN spell-check, reads fluently, and fails at localization. Catching it in the editorial stage — before a translator has to approximate it in PT-BR — is what makes the review useful. The carvalho escalation note makes the same point: some decisions need to surface, not be made silently.
 
-**Localization risk identification in editorial review:** "Show and tell" passes EN spell-check, reads fluently, and causes no problem in a monolingual pipeline. It fails at PT-BR localization. Catching it at the editorial stage is the job; catching it only after the translator has approximated it is more expensive.
-
-**PT-BR narrative localization:** Version 3 is not a translation of Version 2. The dialogue punctuation (em-dash, not quotation marks), the diminutive register throughout, and the sentence rhythm reflect how Brazilian children's narrative is actually written. The reasoning behind each non-literal choice is documented in the localization notes above.
+Version 3 isn't a translation of Version 2. The dialogue punctuation, the diminutive register, and the sentence rhythm reflect how Brazilian children's narrative is actually written. The localization notes document why each non-literal choice was made.
