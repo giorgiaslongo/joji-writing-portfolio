@@ -40,7 +40,7 @@ This audit evaluates the AutiSpark mobile application's instructional language, 
 
 ---
 
-## Microcopy Before and After
+## Microcopy & UX Language Audit
 
 The following issues were identified through direct observation of the interface during the research period. Each entry documents a specific friction point and a targeted revision.
 
@@ -59,6 +59,8 @@ Global on/off toggles only. Vocabulary matching games for early learners sit in 
 **Observed impact:** The participant (age 10, intermediate English) found most activities too simple. She recommended the app for children *"up to 8 years old, especially those just starting to read."* The social videos — the content most appropriate for her level — were not visually distinguished or prioritized.
 
 **Recommended revision**
+
+This is a structural recommendation — the issue is missing categorization, not incorrect copy.
 
 The parental setup screen currently has no grouping or labeling. Add three activity groups with names and one-line descriptors:
 

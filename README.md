@@ -40,7 +40,7 @@ Her current focus is technical writing, content QA, editorial review, and locali
 | Educational content QA | Audits **60–120 pages** of English student deliverables weekly at Rockfeller Language Center | Detail-oriented review, grammar and pedagogical feedback, consistency with learning goals |
 | Editorial clarity | Creates **15+ supplementary instructional materials monthly** | Turning unclear explanations into structured, learner-friendly content |
 | Assessment standards | Aligns feedback with TOEIC and Cambridge criteria | Rubric awareness, standardized evaluation, language assessment context |
-| AI response evaluation | Reviews AI outputs for accuracy, clarity, tone, and instruction-following at DataAnnotation | Guideline-based judgment, response comparison, structured feedback |
+| AI response evaluation | Reviews AI outputs for accuracy, clarity, tone, and instruction-following at DataAnnotation | Applying structured quality criteria to evaluate AI-generated outputs for accuracy, clarity, and instruction-following |
 | Operations documentation | Maintained **100% documentation accuracy** in high-volume enrollment workflows | Precision, compliance awareness, sensitive-data handling under LGPD-aware processes |
 | Academic research | Undergraduate thesis (TCC) on gamified ESL learning for children with ASD, UNESPAR 2025 | Primary research methodology, qualitative analysis, applied linguistics |
 

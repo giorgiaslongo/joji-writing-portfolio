@@ -18,7 +18,7 @@ This document shows editorial QA work applied to three grammar-topic sections fr
 
 What this proves: editorial QA judgment on instructional documentation, plain language editing under a defined reader profile (teachers reading mid-class, under time pressure), cognitive load awareness, and before/after reasoning visible at the sentence level.
 
-The source curriculum is a real commercial series. It has been anonymized for portfolio use as **Project Acorn: Bilingual Early Education Series**.
+The source curriculum is a real commercial EFL series. Identifying details have been removed for portfolio use.
 
 ---
 
