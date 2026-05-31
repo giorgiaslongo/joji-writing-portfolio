@@ -1,7 +1,7 @@
 # Global Content Style Guide (Excerpt)
 
 **Doc ID:** DOC-2026-03A  
-**Status:** V1.0 Final  
+**Status:** V1.0  
 **Applies to:** Project Acorn — all user-facing content in EN and PT-BR  
 **Target Audience:** Writers, translators, UX designers, product managers  
 **Reading Level Target:** Internal reference document  

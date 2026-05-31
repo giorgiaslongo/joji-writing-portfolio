@@ -1,7 +1,7 @@
 # Bilingual Release Notes: Project Acorn App v2.4
 
 **Doc ID:** DOC-2026-02A  
-**Status:** V1.0 Final  
+**Status:** V1.0  
 **Target Audience:** End-users (parents and educators); EN and PT-BR versions  
 **Reading Level Target:** Flesch-Kincaid Grade 6 (EN); equivalent for PT-BR  
 **A11y Status:** Plain language; no jargon; consistent terminology  

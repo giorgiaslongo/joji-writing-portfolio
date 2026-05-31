@@ -1,7 +1,7 @@
 # Localization QA Annotation Sample: Project Acorn (EN → PT-BR)
 
 **Doc ID:** DOC-2026-05A  
-**Status:** V1.0 Final  
+**Status:** V1.0  
 **Target Audience:** Localization QA reviewers / hiring managers  
 **Scope:** UI strings — onboarding, labels, error states, button text  
 **Language pair:** English (EN-US) source → Brazilian Portuguese (PT-BR) review  

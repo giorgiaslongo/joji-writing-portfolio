@@ -1,7 +1,7 @@
 # Cognitive Accessibility & Microcopy Audit: AutiSpark Application
 
 **Doc ID:** DOC-2026-01A  
-**Status:** V1.2 Final  
+**Status:** V1.2  
 **Target Audience:** Product Team, UX Writers, ESL Educators  
 **Reading Level Target:** Flesch-Kincaid Grade 9 (professional report)  
 **A11y Status:** WCAG-informed recommendations; screen-reader compatible formatting  
@@ -11,7 +11,7 @@
 |---|---|---|
 | V1.0 | November 2025 | Initial draft from thesis research |
 | V1.1 | May 2026 | Added microcopy before/after section |
-| V1.2 | May 2026 | Final formatting and skills section |
+| V1.2 | May 2026 | Formatting and skills section |
 
 ---
 
