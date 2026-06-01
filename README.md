@@ -71,8 +71,8 @@ Her current focus is technical writing, content QA, editorial review, and locali
 
 ### Localization & Bilingual Communication
 
-- [Bilingual Release Notes: Projeto Verbly App v2.4](samples/bilingual-release-notes-project-acorn-v2-4.md)
-  *Developer commit log translated into user-facing release notes in English and PT-BR. Includes documented localization decisions for register, idioms, UI terminology, and platform names. Part of the Projeto Verbly documentation set.*
+- [Bilingual Release Notes: Vessel v1.3](samples/bilingual-release-notes-vessel-v1-3.md)
+  *Developer commit log translated into player-facing patch notes in English and PT-BR for a fictional indie RPG. Includes documented localization decisions covering gaming register, loanwords, genre-specific terminology, and one breaking change communicated as a player-facing compatibility warning.*
 
 
 ### Localization QA

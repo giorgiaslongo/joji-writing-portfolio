@@ -116,10 +116,11 @@ His classmates leaned in to look.
 
 | # | EN element | Type | Decision | Rationale |
 |---|---|---|---|---|
-| 1 | "show and tell" (removed in V2) | Cultural adaptation | Replaced with neutral action in V2; rendered in V3 as *"mostrar a bolota para os amigos da turma"* | "Show and tell" has no equivalent practice in Brazilian schools. The V2 edit neutralized the cultural reference; the PT-BR version reshapes the phrasing slightly to fit the natural rhythm of how a Brazilian child would describe sharing something with classmates. |
-| 2 | Narrator warmth / close register | Register | Applied diminutive suffix throughout: *"pequenininha," "chapeuzinho," "coisinha"* | In Brazilian children's narrative, the diminutive suffix (-inho/-inha) signals affection and closeness — not just small size. Omitting diminutives in PT-BR children's text reads as cold or adult-formal. "Little hat" becomes *"chapeuzinho"*, not *"chapéu pequeno"* (which is grammatically correct but tonally flat). |
-| 3 | "acorn" | Vocabulary — PT-BR specific | *"bolota"* | Standard PT-BR children's book term for acorn. *"Glande"* is technically accurate but carries anatomical meaning in common usage and does not appear in children's content. *"Bolota"* is what Brazilian children's books use. |
-| 4 | Oak tree (*"carvalho"*) | Cultural note — kept with caveat | *"carvalho"* retained | Oak trees are not native to Brazil. In a real production context, the creative team would need to decide whether to substitute a familiar Brazilian tree (e.g., *ipê*, *jatobá*). For this sample, *carvalho* is retained for brand consistency with Projeto Verbly — but the decision would need to be escalated, not made silently by the localizer. |
+| 1 | "show and tell" (removed in V2) | Cultural adaptation | Replaced with neutral action in V2; rendered in V3 as *"mostrar o pinhão para os amigos da turma"* | "Show and tell" has no equivalent practice in Brazilian schools. The V2 edit neutralized the cultural reference; the PT-BR version reshapes the phrasing slightly to fit the natural rhythm of how a Brazilian child would describe sharing something with classmates. |
+| 2 | Narrator warmth / close register | Register | Applied diminutive suffix throughout: *"pequenininho," "pinhãozinho," "coisinha"* | In Brazilian children's narrative, the diminutive suffix (-inho/-inha) signals affection and closeness — not just small size. Omitting diminutives in PT-BR children's text reads as cold or adult-formal. The forms used here (*pinhãozinho*, *pequenininho*) follow the same principle: they mark the narrator's tenderness toward Leo and his tiny seed, not just its size. |
+| 3 | "acorn" / "oak tree" | Cultural adaptation | Rendered as *"pinhão"* and *"araucária"* in PT-BR | This is not a direct translation. *"Bolota"* is the technically correct PT-BR word for acorn, but acorns and oak trees are not part of everyday Brazilian life. The pinhão (seed of the araucária tree) is deeply familiar in southern Brazil (Paraná, Santa Catarina, Rio Grande do Sul), where it is a winter food and a cultural symbol. The localization team chose to adapt the seed and tree rather than translate them literally, because the target audience would recognize a pinhão falling from an araucária immediately and intuitively in a way they would not recognize an acorn falling from an oak tree. |
+| 4 | Oak tree (*"carvalho"*) | Cultural adaptation | Adapted to *"araucária"* | Oak trees are not native to Brazil. Rather than retain *carvalho* for brand consistency, this localization made the adaptation transparent: the tree was changed to the araucária, the native Brazilian conifer whose seed is the pinhão. This is a conscious editorial decision, not a silent translator choice, and should be documented in the production notes. |
+| 5 | *"small and brown, with a tiny cap on top — like a little hat"* | Visual adaptation | Description rewritten to match pinhão appearance (elongated, dark, smooth, pointed at both ends) | The cap is what makes an acorn visually distinctive. A pinhão has no cap. Carrying the cap description into the PT-BR version would describe something that does not exist. The entire visual description was rewritten to match the actual pinhão: dark, elongated, smooth-shelled, pointed at both ends, shiny. A Sul-BR child reading this would recognize it. |
 
 ---
 
@@ -127,17 +128,17 @@ His classmates leaned in to look.
 
 *Acorn Tales: A Menor Semente*
 
-A vovó de Leo deu para ele uma bolota numa manhã de sábado. Era pequenininha e marrom, com um capinho redondo no topo — igualzinho a um chapeuzinho.
+A vovó de Leo deu para ele um pinhão numa manhã de sábado. Era pequenininho e escuro, com uma casquinha lisa e pontiaguda nas duas extremidades — comprido e brilhante, igualzinho a uma sementinha de verdade.
 
-— O que ela faz? — Leo perguntou.
+— O que ele faz? — Leo perguntou.
 
-— Se você cuidar bem dela — disse a vovó —, ela vai virar um carvalho enorme um dia.
+— Se você cuidar bem dele — disse a vovó —, ele vai virar uma araucária enorme um dia.
 
-Leo olhou para a bolota. Não dava para acreditar que uma coisa tão pequenininha pudesse virar algo tão grande assim. Ele virou ela de um lado para o outro. Será que ela ia mesmo virar uma árvore? Uma árvore cheia de passarinhos?
+Leo olhou para o pinhãozinho. Não dava para acreditar que uma coisa tão pequenininha pudesse virar algo tão grande assim. Ele virou ele de um lado para o outro. Será que ele ia mesmo virar uma árvore? Uma árvore cheia de passarinhos?
 
-Naquela tarde, Leo quis mostrar a bolota para os amigos da turma. Colocou ela com cuidado no bolso da jaqueta para não perder.
+Naquela tarde, Leo quis mostrar o pinhão para os amigos da turma. Colocou ele com cuidado no bolso da jaqueta para não perder.
 
-Na segunda-feira, Leo ficou de pé na frente da turma e ergueu a bolota bem alto.
+Na segunda-feira, Leo ficou de pé na frente da turma e ergueu o pinhãozinho bem alto.
 
 — Essa coisinha aqui — ele disse — vai virar uma árvore enorme um dia.
 
