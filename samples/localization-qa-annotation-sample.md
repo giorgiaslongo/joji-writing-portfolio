@@ -173,10 +173,6 @@ The review format is: **EN source → submitted PT-BR → QA annotation → corr
 
 ## Skills Demonstrated
 
-- Identifying localization errors that differ in type and severity — not just "translation is wrong"
-- Anchoring every annotation to specific text, explaining why the error matters in context
-- Applying PT-BR register and terminology conventions correctly (UI copy vs. formal vs. error state)
-- Running a character-count check against a component limit and catching truncation before it reaches production
-- Recognizing ambiguity introduced by translation even when the source sentence is unambiguous
-- Cross-referencing style guide rules (Section 2.2, 2.4) and citing them in review notes
-- Correcting without over-correcting — each fix changes only what needs to change
+Five strings, five distinct error types. The most consequential catch is String 03: 80 characters in a 60-character field is not a style issue — it is a string that truncates in production and leaves the user mid-sentence in an error state. The character count check is explicit because the risk is concrete, not theoretical.
+
+String 01 makes a different point: *rolo* is a word-for-word rendering of an EN idiom that does not carry over, and on a first-launch welcome screen, that reads as either meaningless or negative. Both errors are visible at the string level; both would have reached production without a localization QA review.

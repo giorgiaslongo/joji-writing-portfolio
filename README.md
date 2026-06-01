@@ -88,7 +88,7 @@ Her current focus is technical writing, content QA, editorial review, and locali
 ### Educational Content QA
 
 - [Editorial QA & Plain Language Review: K–6 EFL Teacher's Guide](samples/editorial-qa-plain-language-review-k6-efl-guide.md)
-  *QA review of three grammar-topic instruction sections from an anonymized K–6 EFL commercial curriculum. Problems were identified during actual classroom use. Each section includes: QA annotations anchored to exact source text by issue type, and a plain-language rewrite with numbered steps, separated goal statements, and stopping conditions.*
+  *QA review of three constructed grammar-topic instruction sections modeled on recurring issues in K–6 EFL teacher documentation. Problems were identified in two contexts: classroom delivery (mid-class, teacher cannot re-enter a nine-action paragraph) and pre-class planning (same prose gives no structure for time allocation). Each section includes QA annotations anchored to exact text by issue type, and a plain-language rewrite with numbered steps, goal statements, and stopping conditions.*
 
 ---
 

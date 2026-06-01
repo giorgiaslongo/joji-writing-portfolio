@@ -150,6 +150,6 @@ Os colegas se aproximaram para ver de perto.
 
 The five problems in Version 1 are the kind that don't show up as spelling errors — vocabulary above level, passive constructions, a register break, a run-on, a culturally specific classroom practice. The annotations show why each one is a problem for this reader, not just that it is one.
 
-"Show and tell" is the clearest example of what this document is demonstrating: it passes EN spell-check, reads fluently, and fails at localization. Catching it in the editorial stage — before a translator has to approximate it in PT-BR — is what makes the review useful. The pinhão/araucária adaptation makes the same point: some decisions need to surface, not be made silently.
+"Show and tell" is the clearest example of what this document is demonstrating: it passes EN spell-check, reads fluently, and fails at localization. Catching it in the editorial stage (before a translator has to approximate it in PT-BR) is what makes the review useful. The pinhão/araucária adaptation makes the same point: some decisions need to surface, not be made silently.
 
 Version 3 isn't a translation of Version 2. The dialogue punctuation, the diminutive register, and the sentence rhythm reflect how Brazilian children's narrative is actually written. The localization notes document why each non-literal choice was made.

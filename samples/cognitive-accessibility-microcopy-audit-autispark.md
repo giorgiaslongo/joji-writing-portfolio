@@ -152,9 +152,6 @@ The gap isn't between the app's vocabulary activities and a child who already kn
 
 ## Skills Demonstrated
 
-- Translating academic research findings into actionable product and copy recommendations
-- Identifying microcopy friction by type (missing fallback, unclear affordance, absent closure signal)
-- Writing before/after copy revisions with rationale grounded in user behavior
-- Applying accessibility considerations (WCAG, cognitive load, sensory sensitivity) to content review
-- Honest framing of research limitations (single case study scope)
-- Structuring a technical audit document for a product-team audience
+The audit moves from qualitative thesis findings to typed QA findings to specific microcopy revisions. Each M-section documents a different kind of failure: missing content hierarchy in Activity Selection, missing fallback modality in Task Instructions, missing closure signal in Task Completion. Three different problems, three different solutions — not variations on the same recommendation.
+
+The research base is a single-participant case study. That scope is stated once, clearly, in the overview and not expanded beyond what the data supports. The product recommendations in the final section come from what the participant actually did and reported — not from general UX principle.
