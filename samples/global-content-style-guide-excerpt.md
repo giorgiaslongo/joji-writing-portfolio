@@ -21,7 +21,7 @@ This excerpt covers three core sections of the Projeto Verbly Content Style Guid
 Projeto Verbly is a fictional bilingual educational app used as a constructed example for portfolio purposes.
 
 For a demonstration of how this guide is applied in practice, see:
-- [Bilingual Release Notes v2.4](bilingual-release-notes-project-acorn-v2-4.md) — applies Sections 1, 2, and 3
+- [Bilingual Release Notes v2.4](bilingual-release-notes-projeto-verbly-v2-4.md) — applies Sections 1, 2, and 3
 - [Cognitive Accessibility & Microcopy Audit: AutiSpark](cognitive-accessibility-microcopy-audit-autispark.md) — applies Section 3 (Accessibility Baseline)
 
 ---
@@ -128,7 +128,7 @@ Do not translate idioms literally. Identify the communicative intent and find a 
 | "Let's dive in." | *"Vamos mergulhar."* ❌ | *"Vamos começar."* ✅ |
 | "Good job, you nailed it!" | *"Bom trabalho, você pregou!"* ❌ | *"Muito bem, arrasou!"* ✅ |
 
-Add a footnote or margin note when a significant cultural adaptation is made, explaining the reasoning. See [Bilingual Release Notes v2.4](bilingual-release-notes-project-acorn-v2-4.md) for examples of documented localization decisions.
+Add a footnote or margin note when a significant cultural adaptation is made, explaining the reasoning. See [Bilingual Release Notes v2.4](bilingual-release-notes-projeto-verbly-v2-4.md) for examples of documented localization decisions.
 
 ---
 

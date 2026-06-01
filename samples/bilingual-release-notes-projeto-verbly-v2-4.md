@@ -15,7 +15,7 @@
 
 ## About This Sample
 
-This document demonstrates the process of translating raw developer commit log entries into user-facing release notes in both English (EN) and Brazilian Portuguese (PT-BR).
+This sample shows the judgment needed to turn raw developer commit entries into parent- and educator-facing release notes in English (EN) and Brazilian Portuguese (PT-BR).
 
 Projeto Verbly is a fictional bilingual educational app used as a constructed example. The developer log below is the raw input converted into clear, audience-appropriate communication.
 
@@ -81,7 +81,7 @@ The table below documents the editorial decisions made when converting each comm
 
 This update requires Android 8.0 (Oreo) or later. If your device runs an older version of Android, it may no longer support Projeto Verbly after this update. Please check your device settings if you experience any issues.
 
-*Questions? Contact us at support@projetoverby.app*
+*Questions? Contact us at support@projetoverbly.app*
 
 ---
 
@@ -108,7 +108,7 @@ This update requires Android 8.0 (Oreo) or later. If your device runs an older v
 
 Esta atualização exige o Android 8.0 (Oreo) ou versão mais recente. Se o seu dispositivo utiliza uma versão anterior do Android, é possível que o Projeto Verbly não seja mais compatível após esta atualização. Verifique as configurações do dispositivo caso encontre algum problema.
 
-*Dúvidas? Entre em contato pelo e-mail support@projetoverby.app*
+*Dúvidas? Entre em contato pelo e-mail support@projetoverbly.app*
 
 ---
 

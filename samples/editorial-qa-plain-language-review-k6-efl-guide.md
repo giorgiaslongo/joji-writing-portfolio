@@ -14,11 +14,11 @@
 
 ## About This Sample
 
-This document shows editorial QA work applied to three grammar-topic sections from a commercially published K–6 EFL teacher's guide. The problems were identified in two contexts: during delivery, when a teacher mid-class has no way to re-enter a nine-action paragraph if interrupted, and during planning, when the same prose gives no structure for deciding how much time to allocate or where each phase ends. Each section is reviewed with QA annotations anchored to exact source text, followed by a plain-language rewrite.
+This document shows editorial QA work applied to three constructed grammar-topic sections modeled on recurring issues in K–6 EFL teacher documentation. The problems were identified in two contexts: during delivery, when a teacher mid-class has no way to re-enter a nine-action paragraph if interrupted, and during planning, when the same prose gives no structure for deciding how much time to allocate or where each phase ends. Each section is reviewed with QA annotations anchored to a constructed paraphrase, followed by a plain-language rewrite.
 
 What this proves: editorial QA judgment on instructional documentation, plain language editing under a defined reader profile (teachers reading mid-class, under time pressure), cognitive load awareness, and before/after reasoning visible at the sentence level.
 
-The source curriculum is a real commercial EFL series. Identifying details have been removed for portfolio use.
+The BEFORE sections are constructed paraphrases for portfolio use. They do not reproduce student work, proprietary assessments, internal materials, or verbatim curriculum text.
 
 ---
 
@@ -39,9 +39,9 @@ These problems recur across all three sections. They are the basis for every ann
 
 ## Topic A — Subjunctive Mood: Demand / Suggest / Insist
 
-### BEFORE (anonymized source text)
+### BEFORE (constructed paraphrase, not source text)
 
-> With Activation Step 1 complete (Intermediate level), write a "1st" over the first subjects at the start of each sentence, circle the verbs *demand, suggest, insist, recommended*, and underline the subjects *it, he, he and she* in each of the examples. First, ask students what kind of meaning those sentences carry — routine or something stronger. Second, ask them whether the highlighted verbs are expressing routine or habits (which would be expressed by simple present tense) until you have them tell you that these verbs appear not in the simple present but in their base form (bare infinitive). Then, open the grammar rule panel and give them your quick explanation on the use of the subjunctive.
+> After students complete Activation Step 1 at Intermediate level, mark the first subject in each example, circle *demand, suggest, insist,* and *recommended*, and underline the second subject in each sentence. Ask students whether the examples describe habits or something stronger, such as a demand or recommendation. Then ask whether the verb after the second subject is simple present or the base form. Once students notice the base-form pattern, open the grammar rule panel and briefly explain the subjunctive.
 
 ---
 
@@ -49,7 +49,7 @@ These problems recur across all three sections. They are the basis for every ann
 
 **QA note — Issue type: Steps buried in prose**
 
-> `"write a "1st" over the first subjects... circle the verbs... and underline the subjects... First, ask students... Second, ask them... until you have them tell you... Then, open the grammar rule panel"`
+> `"mark the first subject... circle demand, suggest, insist, and recommended... underline the second subject... Ask students... Then ask... Once students notice... open the grammar rule panel"`
 
 Five discrete actions are written as one continuous sentence. A teacher reading this mid-class has to parse the sequence while facing students. There are no numbered steps, no visual break between actions. The risk is that a step gets skipped or the teacher has to re-read to recover the sequence.
 
@@ -57,15 +57,15 @@ Five discrete actions are written as one continuous sentence. A teacher reading 
 
 **QA note — Issue type: Instruction mixed with grammar explanation**
 
-> `"(which would be expressed by simple present tense)"`
+> `"whether the verb after the second subject is simple present or the base form"`
 
-This parenthetical explains *why* the simple present is relevant — it is background knowledge for the teacher, not a teaching instruction. Embedded inside a directive sentence, it interrupts the action chain. The teacher cannot tell whether this is something to say aloud to students or something to understand privately before acting.
+This grammar contrast explains *why* the simple present is relevant, but it is embedded inside the action chain. The teacher cannot tell whether this is something to say aloud to students or something to understand privately before acting.
 
 ---
 
 **QA note — Issue type: No outcome statement**
 
-The section ends with "give them your quick explanation on the use of the subjunctive" — with no signal for what students should be able to produce or say by the time the section closes. "Quick explanation" tells the teacher nothing about scope, depth, or the stopping point.
+The section ends with "briefly explain the subjunctive" with no signal for what students should be able to produce or say by the time the section closes. "Briefly explain" tells the teacher nothing about scope, depth, or the stopping point.
 
 ---
 
@@ -96,9 +96,9 @@ Give a brief explanation of the subjunctive using the rule shown.
 
 ## Topic B — 2nd Conditional + Wish / If Only / As If / As Though
 
-### BEFORE (anonymized source text)
+### BEFORE (constructed paraphrase, not source text)
 
-> Starting with Activation Step 1 complete (Intermediate level), circle all the subjects before "were", "found" and "had occurred" and have them tell you they're all past forms of verbs. From there, have students consider what might bring a past form into these contexts while you point out to the highlighted expression "if, wish, if only, as if" present in all the examples (which is the reason the verbs following it are in simple past or past perfect). Before moving to the rule panel, remind students that inversion is an option in 2nd conditional sentences — covered in a previous lesson. Open the grammar rule panel and quickly explain this use of subjunctive.
+> Begin after Activation Step 1 at Intermediate level. Have students look at the examples containing *were*, *found*, and *had occurred*, and ask them to identify what those verb forms have in common. While they answer, point to the trigger expressions *if, wish, if only,* and *as if* in the examples, because those expressions explain why the following verbs appear in simple past or past perfect. Before opening the rule panel, remind students that second conditional sentences can also use inversion, which was covered previously. Open the grammar rule panel and give a short explanation of this subjunctive pattern.
 
 ---
 
@@ -106,25 +106,25 @@ Give a brief explanation of the subjunctive using the rule shown.
 
 **QA note — Issue type: Ambiguous pronoun**
 
-> `"circle all the subjects before "were", "found" and "had occurred" and have them tell you they're all past forms of verbs"`
+> `"Have students look at the examples containing were, found, and had occurred, and ask them to identify what those verb forms have in common"`
 
-"They're all past forms" — *they* is ambiguous. It could refer to the circled subjects or to the verbs *were, found, had occurred*. The teacher needs to tell students that these verb forms are past — but the instruction does not name which words students should be looking at when they say this. A substitute teacher or new hire reading this cold cannot resolve it without already knowing the activity.
+"Those verb forms" is clearer than the original ambiguous pronoun pattern, but the instruction still requires the teacher to infer whether students should identify tense, form, or function. The teacher needs to direct attention to the verbs *were, found,* and *had occurred* as past-form verbs. A substitute teacher or new hire reading this cold would benefit from a named target.
 
 ---
 
 **QA note — Issue type: Instruction mixed with grammar explanation**
 
-> `"while you point out to the highlighted expression "if, wish, if only, as if" present in all the examples (which is the reason the verbs following it are in simple past or past perfect)"`
+> `"point to the trigger expressions if, wish, if only, and as if in the examples, because those expressions explain why the following verbs appear in simple past or past perfect"`
 
-"Which is the reason the verbs following it are in simple past or past perfect" is an explanation of the grammar rule — not an instruction. It appears parenthetically inside a multi-action sentence. The teacher should know this before the activity begins, not while executing two concurrent actions (asking a question and pointing to a visual simultaneously).
+The cause-and-effect explanation belongs in a teacher note before the activity, not inside the action sequence. The teacher should know this before asking the question and pointing to the visual.
 
 ---
 
 **QA note — Issue type: Undefined reference**
 
-> `"the highlighted expression"`
+> `"the trigger expressions if, wish, if only, and as if in the examples"`
 
-Which highlighting? The source does not specify whether this refers to pre-printed highlighting in the student book, a projected slide, or something the teacher has just marked on the board. A teacher using a different display format cannot follow this instruction.
+Which examples? The source does not specify whether these expressions appear in the student book, a projected slide, or something the teacher has just marked on the board. A teacher using a different display format cannot follow this instruction confidently.
 
 ---
 
@@ -166,9 +166,9 @@ Give a brief explanation covering: the four trigger expressions, past/past perfe
 
 ## Topic C — Reported Speech
 
-### BEFORE (anonymized source text)
+### BEFORE (constructed paraphrase, not source text)
 
-> Once Activation Steps 1 and 2 are done (Intermediate-level students), look at the right column of the examples and underline or circle every instance of *he said*, *she said*, *he told*, *she asked*, then ask students if the person who is saying these sentences is the same person who said the ones in the left column (after they say, yes, you can also ask if they both express the same idea – which is also a yes). Ask them if the tense used in the reported speech column is the same as the one in the quoted speech column. After this, you should ask them to tell what tense is being used in the first column and what tense is being used in the second column for each of the lines in the chart of their books. Open the grammar rule panel and quickly give them your explanation of the rules. Make sure to cover, at this point, the interrogative examples — ask what word appears in the reported speech version that was not in the original. Students should identify *if* or *whether*. After that, look at the sentences with WH- words and note that the WH- word is carried into the reported version. Similarly, show students how an imperative is expressed in reported speech. Also cover how a negative order is reported — these examples are in their books and visible on screen, with no audio.
+> Once students finish Activation Steps 1 and 2 at Intermediate level, direct them to the right column of the chart and have them mark each reporting verb phrase, including *he said*, *she said*, *he told*, and *she asked*. Ask whether the speaker in the reported version is the same person as the speaker in the quoted version. After students answer, ask whether the two versions communicate the same idea. Then ask students to compare the verb tense in the quoted speech column with the verb tense in the reported speech column, row by row. Open the grammar rule panel and give a short explanation of reported speech. At this point, move to the question examples and ask what word appears in the reported version but not in the original question. Students should identify *if* or *whether*. After that, point out that WH- words stay in the reported version. Finally, show how commands and negative orders are reported; these examples appear in the student book and on screen, but they do not have audio.
 
 ---
 
@@ -184,17 +184,17 @@ The practical risk: a teacher mid-delivery has no quick re-entry point if interr
 
 **QA note — Issue type: Ambiguous pronoun**
 
-> `"ask students if the person who is saying these sentences is the same person who said the ones in the left column (after they say, yes, you can also ask if they both express the same idea)"`
+> `"Ask whether the speaker in the reported version is the same person as the speaker in the quoted version. After students answer, ask whether the two versions communicate the same idea."`
 
-"They both" — does this refer to the two columns, the two persons, or the two sentences? The parenthetical intended to say "yes, both columns express the same idea" — but "they" without a noun anchor could be parsed as "the two speakers." The teacher must interpret this before responding to students.
+This version is clearer than a pronoun-heavy instruction, but the two questions are still buried in the same paragraph as the marking task. The teacher has to separate speaker identity from meaning equivalence while also tracking the next action.
 
 ---
 
 **QA note — Issue type: Complex syntax inappropriate for mid-class reading**
 
-> `"Ask them if the tense used in the reported speech column is the same as the one in the quoted speech column. After this, you should ask them to tell what tense is being used in the first column and what tense is being used in the second column for each of the lines in the chart of their books."`
+> `"ask students to compare the verb tense in the quoted speech column with the verb tense in the reported speech column, row by row"`
 
-These two sentences accomplish consecutive related tasks — compare the tenses, then name the tense per row — but the second sentence is a single clause with two embedded "what tense is being used in" constructions. A teacher reading this for the first time while standing in front of a class has to parse parallel embedded clauses before knowing what to ask.
+The task is useful, but the action is still too dense for mid-class reading. A teacher reading this for the first time while standing in front of a class needs two discrete steps: first compare the tenses, then name the tense in each column.
 
 ---
 

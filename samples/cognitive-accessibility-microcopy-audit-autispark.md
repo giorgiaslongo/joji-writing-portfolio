@@ -22,7 +22,7 @@ This audit evaluates the AutiSpark mobile application's instructional language, 
 **Application:** AutiSpark v6.0 — iPhone (iOS) (IDZ Digital Private Limited, 2025)  
 **Audit basis:** Undergraduate thesis research conducted at UNESPAR, Campus União da Vitória, 2025. Advisor: Prof.ª Valéria Vaz Boni, Ph.D.  
 **Methodology:** Single qualitative case study. One month of spontaneous application use in a domestic environment. Data collected via semi-structured questionnaire (10 questions) and researcher field diary. Analyzed using semi-inductive thematic content analysis (Bardin, 2016).  
-**User profile:** 10-year-old participant, female, diagnosed with ASD Level 1, native Portuguese speaker, prior English knowledge acquired through digital media, hyperfocus interest in animals.
+**User profile:** 10-year-old participant, female, diagnosed with ASD Level 1, native Portuguese speaker, prior English knowledge acquired through digital media.
 
 > **Scope note:** This is a single-participant qualitative case study. Findings are not statistically generalizable. They reflect the documented experience of one user and are intended to surface concrete usability and content gaps for product improvement.
 
@@ -32,11 +32,11 @@ This audit evaluates the AutiSpark mobile application's instructional language, 
 
 **1. Frictionless usability.** The participant rated the application "Easy to use" and navigated all activities autonomously. She highlighted colors and animations as the most engaging elements. The interface's visual architecture reduced cognitive barriers and functioned as effective Assistive Technology (Bersch, 2017), consistent with visual thinking patterns common in ASD (Grandin, 1995).
 
-**2. Reinforcement, not acquisition.** The application did not introduce new vocabulary for this participant. When asked what she learned, she selected "Other" and wrote "EVERYTHING" — but when asked directly "Did you learn anything new?", she answered "No." She explained: *"I already knew all the words."* The app functioned as a confidence-building reinforcement tool rather than a learning scaffold. This aligns with Harris et al. (2015), who caution that task repetition without difficulty progression can prevent deeper, generalized learning.
+**2. Reinforcement, not acquisition.** The application did not introduce new vocabulary for this participant. Her questionnaire responses indicated that she already knew the target words, so the app functioned more as a confidence-building reinforcement tool than as a learning scaffold. This aligns with Harris et al. (2015), who caution that task repetition without difficulty progression can prevent deeper, generalized learning.
 
-**3. Sociopragmatic impact over semantic acquisition.** The most significant engagement came from social scenario videos — not vocabulary games. The participant specifically highlighted *"the videos that teach you what to do when a visitor comes"* as the most valuable content. For a child who reported she *"never knows what to do"* in social situations, the app functioned as a safe, predictable environment for modeling social interaction. This suggests AutiSpark's greatest value may lie in pragmatic language development rather than vocabulary.
+**3. Sociopragmatic impact over semantic acquisition.** The most significant engagement came from social scenario videos, not vocabulary games. The participant identified everyday social-situation videos as the most valuable content. For a learner who benefits from explicit social scripts, the app functioned as a safe, predictable environment for modeling interaction. This suggests AutiSpark's greatest value may lie in pragmatic language development rather than vocabulary.
 
-**4. Monetization as an accessibility barrier.** The participant explored the full free content in under 20 minutes: *"The free game should be more complete — I explored everything in less than 20 minutes."* The subscription model limits access for families who most need sustained use.
+**4. Monetization as an accessibility barrier.** The participant explored the full free content in under 20 minutes and reported that the free tier felt too limited. The subscription model limits access for families who most need sustained use.
 
 ---
 
@@ -56,7 +56,7 @@ The parental control setup screen groups all activities in a single undifferenti
 
 Global on/off toggles only. Vocabulary matching games for early learners sit in the same list as social scenario videos that require higher reading ability and social comprehension.
 
-**Observed impact:** The participant (age 10, intermediate English) found most activities too simple. She recommended the app for children *"up to 8 years old, especially those just starting to read."* The social videos — the content most appropriate for her level — were not visually distinguished or prioritized.
+**Observed impact:** The participant (age 10, intermediate English) found most activities too simple and described the app as more appropriate for younger beginners. The social videos, the content most appropriate for her level, were not visually distinguished or prioritized.
 
 **Recommended revision**
 

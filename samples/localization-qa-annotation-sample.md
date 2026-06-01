@@ -20,7 +20,7 @@ This document shows a localization QA review of a set of Projeto Verbly UI strin
 
 Projeto Verbly is a fictional bilingual educational app used as a constructed example. For context on voice, register, and localization rules that govern this content, see:
 - [Global Content Style Guide (Excerpt)](global-content-style-guide-excerpt.md) — localization rules at Section 2
-- [Bilingual Release Notes v2.4](bilingual-release-notes-project-acorn-v2-4.md) — applied bilingual output
+- [Bilingual Release Notes v2.4](bilingual-release-notes-projeto-verbly-v2-4.md) — applied bilingual output for the same fictional product set
 
 The strings reviewed here represent the kind of content a localization QA reviewer typically receives: short labels, onboarding messages, button text, and error states. Across the five, the error types are: a false friend that makes a welcome message read as negative (*rolo*), a register mismatch in a settings label (*Controles Parentais*), a truncation that cuts an error message mid-sentence, an unlocalized date format, and a pronoun ambiguity introduced by a third-person shift mid-onboarding flow.
 

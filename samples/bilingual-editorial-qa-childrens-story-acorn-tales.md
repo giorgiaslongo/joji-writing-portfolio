@@ -128,15 +128,15 @@ His classmates leaned in to look.
 
 *Acorn Tales: A Menor Semente*
 
-A vovó de Leo deu para ele um pinhão numa manhã de sábado. Era pequenininho e escuro, com uma casquinha lisa e pontiaguda nas duas extremidades — comprido e brilhante, igualzinho a uma sementinha de verdade.
+A vovó de Leo deu para ele um pinhão numa manhã de sábado. Era pequenininho e escuro, comprido e brilhante, com uma casquinha lisa e pontinhas nas duas extremidades.
 
 — O que ele faz? — Leo perguntou.
 
 — Se você cuidar bem dele — disse a vovó —, ele vai virar uma araucária enorme um dia.
 
-Leo olhou para o pinhãozinho. Não dava para acreditar que uma coisa tão pequenininha pudesse virar algo tão grande assim. Ele virou ele de um lado para o outro. Será que ele ia mesmo virar uma árvore? Uma árvore cheia de passarinhos?
+Leo olhou para o pinhãozinho. Não dava para acreditar que uma coisa tão pequenininha pudesse virar algo tão grande assim. Virou o pinhãozinho de um lado para o outro. Será que ele ia mesmo virar uma árvore? Uma árvore cheia de passarinhos?
 
-Naquela tarde, Leo quis mostrar o pinhão para os amigos da turma. Colocou ele com cuidado no bolso da jaqueta para não perder.
+Naquela tarde, Leo quis mostrar o pinhão para os amigos da turma. Colocou o pinhão com cuidado no bolso da jaqueta para não perder.
 
 Na segunda-feira, Leo ficou de pé na frente da turma e ergueu o pinhãozinho bem alto.
 
@@ -150,6 +150,6 @@ Os colegas se aproximaram para ver de perto.
 
 The five problems in Version 1 are the kind that don't show up as spelling errors — vocabulary above level, passive constructions, a register break, a run-on, a culturally specific classroom practice. The annotations show why each one is a problem for this reader, not just that it is one.
 
-"Show and tell" is the clearest example of what this document is demonstrating: it passes EN spell-check, reads fluently, and fails at localization. Catching it in the editorial stage — before a translator has to approximate it in PT-BR — is what makes the review useful. The carvalho escalation note makes the same point: some decisions need to surface, not be made silently.
+"Show and tell" is the clearest example of what this document is demonstrating: it passes EN spell-check, reads fluently, and fails at localization. Catching it in the editorial stage — before a translator has to approximate it in PT-BR — is what makes the review useful. The pinhão/araucária adaptation makes the same point: some decisions need to surface, not be made silently.
 
 Version 3 isn't a translation of Version 2. The dialogue punctuation, the diminutive register, and the sentence rhythm reflect how Brazilian children's narrative is actually written. The localization notes document why each non-literal choice was made.

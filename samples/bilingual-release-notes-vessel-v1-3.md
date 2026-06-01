@@ -14,7 +14,7 @@
 
 ## About This Sample
 
-This document demonstrates the process of translating internal game development commits into player-facing patch notes in English (EN) and Brazilian Portuguese (PT-BR), with documented localization decisions at each step. Vessel is a fictional indie RPG used as a constructed example; the commit log below is invented source material.
+This sample shows localization judgment under a gaming-specific register: technical commit entries are converted into player-facing patch notes without losing compatibility, accessibility, or save-file risk information. Vessel is a fictional indie RPG used as a constructed example; the commit log below is invented source material.
 
 ---
 
@@ -90,14 +90,14 @@ Vessel now requires iOS 16.0 or later. If your device runs an older version, it 
 **Novidades**
 
 - O Capítulo 2 chegou. A cutscene de abertura já está disponível com legendas em inglês e português.
-- Novo em Configurações → Acessibilidade: opção para reduzir efeitos de flash durante o combate.
+- Nova opção em Configurações → Acessibilidade: reduzir efeitos piscantes durante o combate.
 
 **Correções**
 
 - Corrigido um crash que podia acontecer ao entrar na Área Selada com um save do Capítulo 1.
 - Corrigido o problema de sincronização das legendas em português no Capítulo 1.
 - A frequência de encontros no Ato 1 foi reduzida para quem está jogando pela primeira vez.
-- Os saves agora estão protegidos contra corrupção quando o jogo fecha durante o salvamento automático. Antes, isso acontecia sem nenhuma mensagem de erro.
+- Os saves agora estão protegidos contra corrupção ao fechar o jogo durante o salvamento automático. Antes, isso acontecia sem nenhuma mensagem de erro.
 
 **Compatibilidade**
 
@@ -121,4 +121,7 @@ O Vessel agora requer iOS 16.0 ou versão mais recente. Se o seu dispositivo usa
 
 ## Skills Demonstrated
 
-This document proves two things: the ability to translate internal technical language into player-facing communication without losing the information that actually matters to the reader, and the judgment to make different localization decisions for different audiences even within the same document series. The gaming register in PT-BR is specific enough that a correct translation of one audience's copy (educational app users) would be wrong for another (RPG players), and that difference is documented here, not assumed. One commit log entry, handled wrong, erases hours of a player's progress without explanation.
+- Translating internal technical language into player-facing communication without losing critical information
+- Adapting PT-BR choices to gaming register instead of reusing educational-app phrasing
+- Preserving compatibility, accessibility, subtitle, and save-file risk details in plain language
+- Documenting audience-specific localization decisions rather than treating translation as word substitution
