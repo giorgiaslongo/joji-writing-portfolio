@@ -1,4 +1,4 @@
-# Localization QA Annotation Sample: Project Acorn (EN → PT-BR)
+# Localization QA Annotation Sample: Projeto Verbly (EN → PT-BR)
 
 **Doc ID:** DOC-2026-05A  
 **Status:** V1.0  
@@ -16,9 +16,9 @@
 
 ## About This Sample
 
-This document shows a localization QA review of a set of Project Acorn UI strings that were submitted for PT-BR translation. Each string was reviewed against the source, flagged for error type, and corrected with an annotation explaining the issue and the fix rationale.
+This document shows a localization QA review of a set of Projeto Verbly UI strings that were submitted for PT-BR translation. Each string was reviewed against the source, flagged for error type, and corrected with an annotation explaining the issue and the fix rationale.
 
-Project Acorn is a fictional bilingual educational app used as a constructed example. For context on voice, register, and localization rules that govern this content, see:
+Projeto Verbly is a fictional bilingual educational app used as a constructed example. For context on voice, register, and localization rules that govern this content, see:
 - [Global Content Style Guide (Excerpt)](global-content-style-guide-excerpt.md) — localization rules at Section 2
 - [Bilingual Release Notes v2.4](bilingual-release-notes-project-acorn-v2-4.md) — applied bilingual output
 
@@ -124,7 +124,7 @@ The review format is: **EN source → submitted PT-BR → QA annotation → corr
 
 > A locale format validator would flag this — but a human reviewer catches something the validator does not: a Brazilian user reading *05/14/2026* is likely to follow the local DD/MM/YYYY convention and try to parse *14* as the day, which is an invalid date. That misread produces confusion, not just recognition of an unlocalized string.
 >
-> The date 05/14/2026 in EN-US is May 14, 2026. In PT-BR format, this is 14/05/2026. Per the Project Acorn Style Guide (Section 2.2): *"Use DD/MM/YYYY format in PT-BR."* No other change is needed — the label *Concluído* is correct and the year format is fine.
+> The date 05/14/2026 in EN-US is May 14, 2026. In PT-BR format, this is 14/05/2026. Per the Projeto Verbly Style Guide (Section 2.2): *"Use DD/MM/YYYY format in PT-BR."* No other change is needed — the label *Concluído* is correct and the year format is fine.
 
 | Field | Content |
 |---|---|

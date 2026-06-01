@@ -1,4 +1,4 @@
-# Bilingual Release Notes: Project Acorn App v2.4
+# Bilingual Release Notes: Projeto Verbly App v2.4
 
 **Doc ID:** DOC-2026-02A  
 **Status:** V1.0  
@@ -17,7 +17,7 @@
 
 This document demonstrates the process of translating raw developer commit log entries into user-facing release notes in both English (EN) and Brazilian Portuguese (PT-BR).
 
-Project Acorn is a fictional bilingual educational app used as a constructed example. The developer log below is the raw input converted into clear, audience-appropriate communication.
+Projeto Verbly is a fictional bilingual educational app used as a constructed example. The developer log below is the raw input converted into clear, audience-appropriate communication.
 
 ---
 
@@ -62,7 +62,7 @@ The table below documents the editorial decisions made when converting each comm
 
 ---
 
-**Project Acorn — Version 2.4**  
+**Projeto Verbly — Version 2.4**  
 *May 2026*
 
 **What's new**
@@ -79,9 +79,9 @@ The table below documents the editorial decisions made when converting each comm
 
 **Important: Android compatibility update**
 
-This update requires Android 8.0 (Oreo) or later. If your device runs an older version of Android, it may no longer support Project Acorn after this update. Please check your device settings if you experience any issues.
+This update requires Android 8.0 (Oreo) or later. If your device runs an older version of Android, it may no longer support Projeto Verbly after this update. Please check your device settings if you experience any issues.
 
-*Questions? Contact us at support@projectacorn.app*
+*Questions? Contact us at support@projetoverby.app*
 
 ---
 
@@ -89,7 +89,7 @@ This update requires Android 8.0 (Oreo) or later. If your device runs an older v
 
 ---
 
-**Project Acorn — Versão 2.4**  
+**Projeto Verbly — Versão 2.4**  
 *Maio de 2026*
 
 **O que há de novo**
@@ -106,9 +106,9 @@ This update requires Android 8.0 (Oreo) or later. If your device runs an older v
 
 **Importante: atualização de compatibilidade com Android**
 
-Esta atualização exige o Android 8.0 (Oreo) ou versão mais recente. Se o seu dispositivo utiliza uma versão anterior do Android, é possível que o Project Acorn não seja mais compatível após esta atualização. Verifique as configurações do dispositivo caso encontre algum problema.
+Esta atualização exige o Android 8.0 (Oreo) ou versão mais recente. Se o seu dispositivo utiliza uma versão anterior do Android, é possível que o Projeto Verbly não seja mais compatível após esta atualização. Verifique as configurações do dispositivo caso encontre algum problema.
 
-*Dúvidas? Entre em contato pelo e-mail support@projectacorn.app*
+*Dúvidas? Entre em contato pelo e-mail support@projetoverby.app*
 
 ---
 

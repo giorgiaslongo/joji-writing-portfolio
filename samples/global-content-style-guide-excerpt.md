@@ -2,7 +2,7 @@
 
 **Doc ID:** DOC-2026-03A  
 **Status:** V1.0  
-**Applies to:** Project Acorn — all user-facing content in EN and PT-BR  
+**Applies to:** Projeto Verbly — all user-facing content in EN and PT-BR  
 **Target Audience:** Writers, translators, UX designers, product managers  
 **Reading Level Target:** Internal reference document  
 **A11y Status:** Plain language; structured for screen-reader navigation  
@@ -16,9 +16,9 @@
 
 ## About This Document
 
-This excerpt covers three core sections of the Project Acorn Content Style Guide: Voice & Tone, Localization Rules, and Accessibility Baseline. It is intended as a practical reference for anyone who writes, reviews, translates, or edits content for the application.
+This excerpt covers three core sections of the Projeto Verbly Content Style Guide: Voice & Tone, Localization Rules, and Accessibility Baseline. It is intended as a practical reference for anyone who writes, reviews, translates, or edits content for the application.
 
-Project Acorn is a fictional bilingual educational app used as a constructed example for portfolio purposes.
+Projeto Verbly is a fictional bilingual educational app used as a constructed example for portfolio purposes.
 
 For a demonstration of how this guide is applied in practice, see:
 - [Bilingual Release Notes v2.4](bilingual-release-notes-project-acorn-v2-4.md) — applies Sections 1, 2, and 3
@@ -30,7 +30,7 @@ For a demonstration of how this guide is applied in practice, see:
 
 ### 1.1 Core Voice
 
-Project Acorn speaks with one consistent voice across all languages and surfaces: **encouraging, clear, and never condescending.**
+Projeto Verbly speaks with one consistent voice across all languages and surfaces: **encouraging, clear, and never condescending.**
 
 The application's primary users are children (ages 4–10) with diverse cognitive profiles, including neurodivergent learners. Secondary users — parents and educators — interact with settings, release notes, and documentation.
 
@@ -99,7 +99,7 @@ The following elements must always be adapted for the target locale, not transla
 
 The following elements must remain in their original form:
 
-- Application name: **Project Acorn** (do not translate)
+- Application name: **Projeto Verbly** (do not translate)
 - Platform names: **iOS**, **Android**, **Google Play**, **App Store**
 - OS version names: **Oreo**, **Nougat**, etc.
 - Email addresses and URLs
@@ -134,7 +134,7 @@ Add a footnote or margin note when a significant cultural adaptation is made, ex
 
 ## Section 3: Accessibility Baseline
 
-All user-facing content in Project Acorn must meet the following accessibility standards.
+All user-facing content in Projeto Verbly must meet the following accessibility standards.
 
 ### 3.1 Reading Level
 

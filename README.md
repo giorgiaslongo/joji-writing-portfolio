@@ -71,19 +71,19 @@ Her current focus is technical writing, content QA, editorial review, and locali
 
 ### Localization & Bilingual Communication
 
-- [Bilingual Release Notes: Project Acorn App v2.4](samples/bilingual-release-notes-project-acorn-v2-4.md)
-  *Developer commit log translated into user-facing release notes in English and PT-BR. Includes documented localization decisions for register, idioms, UI terminology, and platform names. Part of the Project Acorn documentation set.*
+- [Bilingual Release Notes: Projeto Verbly App v2.4](samples/bilingual-release-notes-project-acorn-v2-4.md)
+  *Developer commit log translated into user-facing release notes in English and PT-BR. Includes documented localization decisions for register, idioms, UI terminology, and platform names. Part of the Projeto Verbly documentation set.*
 
 
 ### Localization QA
 
-- [Localization QA Annotation Sample: Project Acorn (EN → PT-BR)](samples/localization-qa-annotation-sample.md)
-  *Review of five submitted PT-BR translations of Project Acorn UI strings. Each string is annotated by error type — literal idiom, unnatural term, UI truncation, date format, register inconsistency — with corrected output and rationale. Part of the Project Acorn documentation set.*
+- [Localization QA Annotation Sample: Projeto Verbly (EN → PT-BR)](samples/localization-qa-annotation-sample.md)
+  *Review of five submitted PT-BR translations of Projeto Verbly UI strings. Each string is annotated by error type — literal idiom, unnatural term, UI truncation, date format, register inconsistency — with corrected output and rationale. Part of the Projeto Verbly documentation set.*
 
 ### Narrative Localization
 
 - [Acorn Tales: The Smallest Seed — Bilingual Editorial QA (EN / PT-BR)](samples/bilingual-editorial-qa-childrens-story-acorn-tales.md)
-  *Three-version bilingual editorial QA of a children's story excerpt: original (problematic EN), edited EN with annotated QA findings, and PT-BR localization. Annotations cover vocabulary level, passive constructions, run-on sentence, register shift, and a culturally specific reference that passes EN editorial review but fails at localization. Part of the Project Acorn documentation set.*
+  *Three-version bilingual editorial QA of a children's story excerpt: original (problematic EN), edited EN with annotated QA findings, and PT-BR localization. Annotations cover vocabulary level, passive constructions, run-on sentence, register shift, and a culturally specific reference that passes EN editorial review but fails at localization. Part of the Projeto Verbly documentation set.*
 
 ### Educational Content QA
 
