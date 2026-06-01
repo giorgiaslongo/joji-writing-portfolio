@@ -14,7 +14,7 @@
 
 ## About This Sample
 
-This document shows editorial QA work applied to three grammar-topic sections from a commercially published K–6 EFL teacher's guide. The problems were identified during actual classroom use. Each section is reviewed with QA annotations anchored to exact source text, followed by a plain-language rewrite.
+This document shows editorial QA work applied to three grammar-topic sections from a commercially published K–6 EFL teacher's guide. The problems were identified in two contexts: during delivery, when a teacher mid-class has no way to re-enter a nine-action paragraph if interrupted, and during planning, when the same prose gives no structure for deciding how much time to allocate or where each phase ends. Each section is reviewed with QA annotations anchored to exact source text, followed by a plain-language rewrite.
 
 What this proves: editorial QA judgment on instructional documentation, plain language editing under a defined reader profile (teachers reading mid-class, under time pressure), cognitive load awareness, and before/after reasoning visible at the sentence level.
 

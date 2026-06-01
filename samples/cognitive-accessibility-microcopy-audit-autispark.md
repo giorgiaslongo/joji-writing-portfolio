@@ -19,7 +19,7 @@
 
 This audit evaluates the AutiSpark mobile application's instructional language, interface microcopy, and cognitive accessibility for English as a Second Language (ESL) learners with Autism Spectrum Disorder (ASD).
 
-**Application:** AutiSpark v6.8 (IDZ Digital Private Limited, 2025)  
+**Application:** AutiSpark v6.0 — iPhone (iOS) (IDZ Digital Private Limited, 2025)  
 **Audit basis:** Undergraduate thesis research conducted at UNESPAR, Campus União da Vitória, 2025. Advisor: Prof.ª Valéria Vaz Boni, Ph.D.  
 **Methodology:** Single qualitative case study. One month of spontaneous application use in a domestic environment. Data collected via semi-structured questionnaire (10 questions) and researcher field diary. Analyzed using semi-inductive thematic content analysis (Bardin, 2016).  
 **User profile:** 10-year-old participant, female, diagnosed with ASD Level 1, native Portuguese speaker, prior English knowledge acquired through digital media, hyperfocus interest in animals.
