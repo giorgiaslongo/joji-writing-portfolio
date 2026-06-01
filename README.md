@@ -105,4 +105,4 @@ Her current focus is technical writing, content QA, editorial review, and locali
 
 ---
 
-*Public artifacts are written to be safe for sharing: no student data, private materials, proprietary assessments, credentials, platform task content, or internal documents. Constructed examples are clearly labeled as such.*
+*Real work samples are not included: educational materials created for language centers are school property, AI evaluation content is subject to platform confidentiality terms, and academic research data involves a minor participant protected under research ethics. Constructed examples were built to demonstrate the same QA skills under realistic constraints.*
