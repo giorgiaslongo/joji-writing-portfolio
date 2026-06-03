@@ -1,8 +1,8 @@
 # Cognitive Accessibility & Microcopy Audit: AutiSpark Application
 
 **Doc ID:** DOC-2026-01A  
-**Status:** V1.2  
-**Target Audience:** Product Team, UX Writers, ESL Educators  
+**Status:** V1.3  
+**Target Audience:** UX Writers, Content Reviewers, Accessibility Reviewers  
 **Reading Level Target:** Flesch-Kincaid Grade 9 (professional report)  
 **A11y Status:** WCAG-informed recommendations; screen-reader compatible formatting  
 **Changelog:**
@@ -12,6 +12,7 @@
 | V1.0 | November 2025 | Initial draft from thesis research |
 | V1.1 | May 2026 | Added microcopy before/after section |
 | V1.2 | May 2026 | Formatting and skills section |
+| V1.3 | June 2026 | Revised to QA scope: removed product strategy sections, refined Key Findings, added Audit Scope & Limitations close |
 
 ---
 
@@ -34,9 +35,9 @@ This audit evaluates the AutiSpark mobile application's instructional language, 
 
 **2. Reinforcement, not acquisition.** The application did not introduce new vocabulary for this participant. Her questionnaire responses indicated that she already knew the target words, so the app functioned more as a confidence-building reinforcement tool than as a learning scaffold. This aligns with Harris et al. (2015), who caution that task repetition without difficulty progression can prevent deeper, generalized learning.
 
-**3. Sociopragmatic impact over semantic acquisition.** The most significant engagement came from social scenario videos, not vocabulary games. The participant identified everyday social-situation videos as the most valuable content. For a learner who benefits from explicit social scripts, the app functioned as a safe, predictable environment for modeling interaction. This suggests AutiSpark's greatest value may lie in pragmatic language development rather than vocabulary.
+**3. Sociopragmatic impact over semantic acquisition.** The most significant engagement came from social scenario videos, not vocabulary games. The participant identified everyday social-situation videos as the most valuable content. For a learner who benefits from explicit social scripts, the app functioned as a safe, predictable environment for modeling interaction.
 
-**4. Monetization as an accessibility barrier.** The participant explored the full free content in under 20 minutes and reported that the free tier felt too limited. The subscription model limits access for families who most need sustained use.
+**4. Content ceiling reached: available activities did not match participant's proficiency level.** The participant explored the full free content in under 20 minutes and reported that the free tier felt too limited. The participant described the application as more appropriate for younger beginners, consistent with Finding 2, in which the same participant had already acquired the target vocabulary through prior digital media exposure.
 
 ---
 
@@ -46,11 +47,11 @@ The following issues were identified through direct observation of the interface
 
 ---
 
-### M-01: Activity Selection Screen — No Age or Level Filter
+### M-01: Activity Selection Screen (No Age or Level Filter)
 
-**QA finding — Issue type: Missing content hierarchy / navigation friction**
+**QA finding. Issue type: Missing content hierarchy / navigation friction**
 
-The parental control setup screen groups all activities in a single undifferentiated list — no age range, proficiency level, or content-type grouping applied. Parents cannot curate content for their child without previewing every activity individually.
+The parental control setup screen groups all activities in a single undifferentiated list with no age range, proficiency level, or content-type grouping. Parents cannot curate content for their child without previewing every activity individually.
 
 **Current state**
 
@@ -64,19 +65,19 @@ This is a structural recommendation — the issue is missing categorization, not
 
 The parental setup screen currently has no grouping or labeling. Add three activity groups with names and one-line descriptors:
 
-- **Starter · Ages 4–6 · Beginner English** — "Matching and sorting activities using animals, colors, and numbers."
-- **Explorer · Ages 7–9 · Elementary English** — "Vocabulary games with simple sentences and picture recognition."
-- **Social Skills Videos · All levels** — "Animated scenarios modeling everyday social interactions."
+- **Starter · Ages 4–6 · Beginner English**: "Matching and sorting activities using animals, colors, and numbers."
+- **Explorer · Ages 7–9 · Elementary English**: "Vocabulary games with simple sentences and picture recognition."
+- **Social Skills Videos · All levels**: "Animated scenarios modeling everyday social interactions."
 
-This allows parents to make informed selections without previewing every activity individually. The Social Skills group in particular needs to be visible at the top level — it is the highest-value content for older users but currently requires manual discovery.
+This allows parents to make informed selections without previewing every activity individually. The Social Skills group in particular needs to be visible at the top level. It is the most relevant content for older and intermediate users but currently requires manual discovery.
 
 **A11y note:** Group labels must meet WCAG AA contrast (4.5:1 minimum). Use icons alongside text labels to support non-reading caregivers.
 
 ---
 
-### M-02: Task Instructions — Audio-Only Delivery With No Text Fallback
+### M-02: Task Instructions (Audio-Only Delivery, No Text Fallback)
 
-**QA finding — Issue type: Accessibility gap — no fallback modality**
+**QA finding. Issue type: Accessibility gap, no fallback modality**
 
 **Current state**
 
@@ -84,9 +85,9 @@ Task instructions are delivered by an in-app voice, spoken once, with no closed 
 
 **Problem**
 
-When the audio plays once and disappears, there is nothing to fall back on. A learner who prefers lower volume — or needs more time to process spoken directions — has no way to replay or read the instruction.
+When the audio plays once and disappears, there is nothing to fall back on. A learner who prefers lower volume, or needs more time to process spoken directions, has no way to replay or read the instruction.
 
-**Observed impact:** The participant preferred low volume during play. Without a text fallback, audio-only instructions created time pressure to process spoken directions in real time — cognitively demanding for learners who benefit from visual processing. Many autistic learners prefer visual information over auditory input as a self-regulation strategy (Grandin, 1995).
+**Observed impact:** The participant preferred low volume during play. Without a text fallback, audio-only instructions created time pressure to process spoken directions in real time, which is more demanding for learners who rely on visual input. Many autistic learners prefer visual information over auditory input as a self-regulation strategy (Grandin, 1995).
 
 **Recommended microcopy revision — example activity:**
 
@@ -101,11 +102,11 @@ When the audio plays once and disappears, there is nothing to fall back on. A le
 
 ---
 
-### M-03: Task Completion Screen — No Closure or Progress Signal
+### M-03: Task Completion Screen (No Closure or Progress Signal)
 
-**QA finding — Issue type: Missing closure signal / state feedback**
+**QA finding. Issue type: Missing closure signal / state feedback**
 
-**Observed impact:** The participant reported sensory overload from the volume of options on the activity screen — she exhausted the free content in under 20 minutes partly because there was no signal telling her what she had already done.
+**Observed impact:** The participant reported sensory overload from the volume of options on the activity screen. She exhausted the free content in under 20 minutes partly because there was no signal telling her what she had already done.
 
 **Current state**
 
@@ -132,26 +133,46 @@ Without a visible completion signal, learners have no clear indication that thei
 
 ---
 
-## Product & Strategy Recommendations
+## Audit Scope & Limitations
 
-**Adaptive difficulty.** Introduce difficulty tiers that adjust as the user progresses. The current fixed-difficulty model is appropriate for beginners but creates an engagement ceiling for learners with prior knowledge. Difficulty tiers extend the product's useful lifespan per user.
+### Scope
 
-**Sociopragmatic content track.** Social scenario videos generated the highest engagement for this participant. Creating a dedicated "Social Skills" track — surfaced prominently for the 7–10 age group — would align the product's positioning with its demonstrated strength.
+This audit covers **content, microcopy, and structural labeling gaps** observable in the application interface. It does not cover product roadmap decisions, monetization strategy, market positioning, or curriculum design.
 
-**Monetization flexibility.** The free tier was exhausted in under 20 minutes. A lifetime purchase option (in addition to the subscription) would reduce the barrier for families who cannot commit to recurring costs. This is particularly relevant in LATAM markets where subscription fatigue is high and purchasing power varies.
+| In scope | Out of scope |
+|---|---|
+| Microcopy text quality and clarity | Pricing model or subscription structure |
+| Content hierarchy and labeling | Difficulty progression or curriculum design |
+| Accessibility gaps (WCAG-informed) | Product strategy or feature roadmap |
+| Structural UX friction (navigation, feedback signals) | Market positioning or competitor analysis |
 
----
+### Findings Summary
 
-## Audit Notes
+| ID | Issue type | Severity | Status |
+|---|---|---|---|
+| M-01 | Missing content hierarchy / navigation friction | High | Open |
+| M-02 | Accessibility gap, no fallback modality | High | Open |
+| M-03 | Missing closure signal / state feedback | Medium | Open |
 
-For neurodivergent learners, the most valuable function of an educational app may not be the one printed on the marketing page. AutiSpark is marketed as a vocabulary and learning tool — but for this participant, its most meaningful use was as a safe space to practice social behavior. The instruction *"find the animal that lives in water"* was easy. The model of *"what to do when a visitor comes"* was genuinely useful.
+### Implementation Checklist
 
-The gap isn't between the app's vocabulary activities and a child who already knows the words. It's between what the app is described as doing and what it actually did. For this participant, the content worth returning to wasn't a game — it was a video that modeled what to say when someone comes to the door. That's pragmatic language, not semantic. A product team planning the next update would find more traction expanding the social scenario library than adding vocabulary tiers.
+Items derived from the three QA findings above, ordered by implementation dependency:
+
+- [ ] **[M-01]** Add three labeled activity groups to the parental setup screen: Starter (ages 4–6), Explorer (ages 7–9), Social Skills Videos (all levels).
+- [ ] **[M-01]** Ensure group labels meet WCAG AA contrast (minimum 4.5:1). Pair icons with text labels.
+- [ ] **[M-02]** Add on-screen text subtitles for all audio task instructions.
+- [ ] **[M-02]** Add subtitle toggle to parental settings; default to ON for first-time users.
+- [ ] **[M-03]** Insert a brief completion message after each activity ("Great job! 🌟 Play again, or choose a new activity.").
+- [ ] **[M-03]** Add a checkmark badge and dimmed visual state to completed activity tiles in the selection grid.
+
+### Methodology Note
+
+All findings derive from a single-participant qualitative case study (one month of spontaneous use, semi-structured questionnaire, researcher field diary). The findings are sufficient to inform a content and UX revision pass and flag concrete usability gaps. They are not statistically generalizable and should be validated with a broader user sample before committing to structural or architectural changes.
 
 ---
 
 ## Skills Demonstrated
 
-The audit moves from qualitative thesis findings to typed QA findings to specific microcopy revisions. Each M-section documents a different kind of failure: missing content hierarchy in Activity Selection, missing fallback modality in Task Instructions, missing closure signal in Task Completion. Three different problems, three different solutions — not variations on the same recommendation.
+The audit moves from qualitative thesis findings to typed QA findings to specific microcopy revisions. Each M-section documents a different kind of failure: missing content hierarchy in Activity Selection, missing fallback modality in Task Instructions, missing closure signal in Task Completion. Three different problems, three different solutions, not variations on the same recommendation.
 
-The research base is a single-participant case study. That scope is stated once, clearly, in the overview and not expanded beyond what the data supports. The product recommendations in the final section come from what the participant actually did and reported — not from general UX principle.
+The research base is a single-participant case study. That scope is stated once in the overview and not revisited.

@@ -59,7 +59,7 @@ A Grade 1–2 reader (ages 6–8) is unlikely to know any of these words, and th
 **Decision:** Rewrite to active.  
 **Quoted:** *"The acorn was placed carefully in his jacket pocket so it would not get lost"*
 
-Passive voice delays the actor and breaks narrative momentum — a documented readability drag for young readers. The opening sentence ("Leo's grandmother gave him an acorn") has the reverse structure but reads naturally because the actor follows immediately. This sentence does not recover the same way: Leo disappears entirely. One passive in a 180-word excerpt is defensible; two is a pattern. Rewrite: Leo tucked it into his jacket pocket.
+Passive voice delays the actor and breaks narrative momentum, a documented readability drag for young readers. The opening sentence ("Leo's grandmother gave him an acorn") has the reverse structure but reads naturally because the actor follows immediately. This sentence does not recover the same way: Leo disappears entirely. One passive in a 180-word excerpt is defensible; two is a pattern. Rewrite: Leo tucked it into his jacket pocket.
 
 ---
 
@@ -77,7 +77,7 @@ Forty-four words and three distinct thoughts. A Grade 1 reader's working memory 
 **Decision:** Cut the sentence entirely.  
 **Quoted:** *"The child's curiosity, while understandable, was not easily satisfied."*
 
-Every other sentence in this excerpt is written close to Leo — warm, direct, inside his point of view. This sentence steps outside to a narrator who observes Leo from a distance and finds his curiosity worth characterizing with a mild qualification ("while understandable"). It reads like a sentence from a different draft, or a different genre. The surrounding text already conveys Leo's persistence without an outside observer commenting on it. Cut it; nothing is lost.
+Every other sentence in this excerpt is written close to Leo: warm, direct, inside his point of view. This sentence steps outside to a narrator who observes Leo from a distance and finds his curiosity worth characterizing with a mild qualification ("while understandable"). It reads like a sentence from a different draft, or a different genre. The surrounding text already conveys Leo's persistence without an outside observer commenting on it. Cut it; nothing is lost.
 
 ---
 
@@ -94,7 +94,7 @@ Every other sentence in this excerpt is written close to Leo — warm, direct, i
 
 *Acorn Tales: The Smallest Seed*
 
-Leo's grandmother gave him an acorn on a Saturday morning. It was small and brown, with a tiny cap on top — like a little hat.
+Leo's grandmother gave him an acorn on a Saturday morning. It was small and brown, with a tiny cap on top, like a little hat.
 
 "What does it do?" Leo asked.
 

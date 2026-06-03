@@ -28,7 +28,7 @@ These problems recur across all three sections. They are the basis for every ann
 
 | # | Issue | Risk |
 |---|---|---|
-| 1 | Steps buried in prose paragraphs — no numbering | Teacher cannot scan for next action; loses place mid-delivery |
+| 1 | Steps buried in prose paragraphs (no numbering) | Teacher cannot scan for next action; loses place mid-delivery |
 | 2 | Grammar explanation and teaching procedure written in the same sentence | Teacher cannot tell whether a sentence is instruction or background knowledge |
 | 3 | Ambiguous pronouns with no clear referent | Teacher has to infer who or what "they" refers to before acting |
 | 4 | No outcome statement per section | Teacher has no signal for when the phase is done or what students should be able to say |

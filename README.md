@@ -67,7 +67,7 @@ Her current focus is technical writing, content QA, editorial review, and locali
 ### Cognitive Accessibility & Microcopy
 
 - [Cognitive Accessibility & Microcopy Audit: AutiSpark Application](samples/cognitive-accessibility-microcopy-audit-autispark.md)
-  *UX and instructional language audit based on undergraduate thesis research (UNESPAR, 2025). Evaluates a gamified ESL app for children with Autism Spectrum Disorder. Includes three concrete microcopy before/after analyses and product recommendations.*
+  *UX and instructional language audit based on undergraduate thesis research (UNESPAR, 2025). Evaluates a gamified ESL app for children with Autism Spectrum Disorder. Includes three concrete microcopy before/after analyses, a findings summary with severity ratings, and an implementation checklist.*
 
 ### Localization & Bilingual Communication
 

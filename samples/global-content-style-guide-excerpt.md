@@ -75,7 +75,7 @@ When writing for screens or interactions that will be used by children with ASD 
 
 ### 2.1 General Principles
 
-All content must be localized — not just translated. Localization means adapting content so that it reads naturally and functions correctly for a target audience, not just converting words from one language to another.
+All content must be localized, not just translated. Localization means adapting content so that it reads naturally and functions correctly for a target audience, not just converting words from one language to another.
 
 **Key distinction:**
 
