@@ -1,6 +1,6 @@
 # Bilingual Release Notes: Vessel v1.3
 
-**Doc ID:** DOC-2026-02A
+**Doc ID:** DOC-2026-04A
 **Status:** V1.0
 **Target Audience:** Players (EN and PT-BR); game version update communication
 **Reading Level Target:** Plain language; accessible to casual gamers

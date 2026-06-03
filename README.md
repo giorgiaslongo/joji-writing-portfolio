@@ -2,11 +2,11 @@
 
 **Bilingual Content QA · Editorial QA · Localization QA**
 
-Giorgia Slongo is a bilingual content quality professional based in União da Vitória, Paraná, Brazil. She works in English and Portuguese, with experience in educational content review, instructional material creation, AI response evaluation, and structured documentation.
+Giorgia Slongo is a bilingual content quality professional based in União da Vitória, Paraná, Brazil. She reviews content in English and Brazilian Portuguese: editorial QA, localization QA, and instructional material review, with documented reasoning for every flag and correction.
 
-Her current focus is technical writing, content QA, editorial review, and localization. She is especially interested in work that connects clear writing with accessibility, education, and practical user guidance.
+This portfolio shows that judgment applied: UI strings reviewed and corrected with rationale, commit logs translated into user-facing copy for two different registers, a children's story localized with a full cultural adaptation, and a cognitive accessibility audit grounded in primary research with a neurodivergent learner.
 
-> *"I find the problems in content that readers can't articulate — ambiguity, broken instructions, localization gaps, cognitive friction — and fix them."*
+> *"I find the problems in content that readers can't articulate: ambiguity, broken instructions, localization gaps, cognitive friction. I fix them."*
 
 ---
 
@@ -55,8 +55,8 @@ Her current focus is technical writing, content QA, editorial review, and locali
 
 ## Education & Certifications
 
-- **PUC Minas** — Postgraduate Certificate in Editorial Quality Assurance & Text Editing (2026–2027)
-- **UNESPAR** — Licentiate Degree in Language and Literature, English/Portuguese (2022–2025)
+- **PUC Minas**: Postgraduate Certificate in Editorial Quality Assurance & Text Editing (2026–2027)
+- **UNESPAR**: Licentiate Degree in Language and Literature, English/Portuguese (2022–2025)
 - Cambridge B2 First
 - Certified TOEIC Test Administrator & Proctor
 
@@ -71,14 +71,16 @@ Her current focus is technical writing, content QA, editorial review, and locali
 
 ### Localization & Bilingual Communication
 
-- [Bilingual Release Notes: Vessel v1.3](samples/bilingual-release-notes-vessel-v1-3.md)
-  *Developer commit log translated into player-facing patch notes in English and PT-BR for a fictional indie RPG. Includes documented localization decisions covering gaming register, loanwords, genre-specific terminology, and one breaking change communicated as a player-facing compatibility warning.*
+- [Bilingual Release Notes: Projeto Verbly v2.4](samples/bilingual-release-notes-projeto-verbly-v2-4.md)
+  *Developer commit log translated into parent- and educator-facing release notes in English and PT-BR. Documents which commit entries to omit, which to simplify, and how to reframe technical language for a non-technical audience. Part of the Projeto Verbly documentation set.*
 
+- [Bilingual Release Notes: Vessel v1.3](samples/bilingual-release-notes-vessel-v1-3.md)
+  *The same process for a different register: commit log translated into player-facing patch notes for a fictional indie RPG. Localization notes show where gaming PT-BR diverges from educational-app PT-BR, including loanwords, genre terminology, and section naming conventions.*
 
 ### Localization QA
 
 - [Localization QA Annotation Sample: Projeto Verbly (EN → PT-BR)](samples/localization-qa-annotation-sample.md)
-  *Review of five submitted PT-BR translations of Projeto Verbly UI strings. Each string is annotated by error type — literal idiom, unnatural term, UI truncation, date format, register inconsistency — with corrected output and rationale. Part of the Projeto Verbly documentation set.*
+  *Review of five submitted PT-BR translations of Projeto Verbly UI strings. Each string is annotated by error type (literal idiom, unnatural term, UI truncation, date format, register inconsistency) with corrected output and rationale. Part of the Projeto Verbly documentation set.*
 
 ### Narrative Localization
 
@@ -89,6 +91,11 @@ Her current focus is technical writing, content QA, editorial review, and locali
 
 - [Editorial QA & Plain Language Review: K–6 EFL Teacher's Guide](samples/editorial-qa-plain-language-review-k6-efl-guide.md)
   *QA review of three constructed grammar-topic instruction sections modeled on recurring issues in K–6 EFL teacher documentation. Problems were identified in two contexts: classroom delivery (mid-class, teacher cannot re-enter a nine-action paragraph) and pre-class planning (same prose gives no structure for time allocation). Each section includes QA annotations anchored to exact text by issue type, and a plain-language rewrite with numbered steps, goal statements, and stopping conditions.*
+
+### Content Style Guide
+
+- [Global Content Style Guide (Excerpt)](samples/global-content-style-guide-excerpt.md)
+  *Voice, tone, localization rules, and accessibility baseline governing the Projeto Verbly documentation set. Referenced by the release notes and localization QA samples above.*
 
 ---
 
